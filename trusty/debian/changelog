@@ -1,3 +1,9 @@
+sdformat4 (4.3.2-1~trusty) trusty; urgency=medium
+
+  * sdformat4 4.3.2-1 release
+
+ -- Steve Peters <scpeters@osrfoundation.org>  Wed, 19 Jul 2017 15:24:20 -0700
+
 sdformat4 (4.3.1-1~trusty) trusty; urgency=medium
 
   * sdformat4 4.3.1-1 release

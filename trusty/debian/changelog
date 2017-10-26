@@ -1,3 +1,9 @@
+sdformat4 (4.4.0-1~trusty) trusty; urgency=medium
+
+  * sdformat4 4.4.0-1 release
+
+ -- Ian Chen <ichen@osrfoundation.org>  Thu, 26 Oct 2017 14:10:09 -0700
+
 sdformat4 (4.3.2-1~trusty) trusty; urgency=medium
 
   * sdformat4 4.3.2-1 release

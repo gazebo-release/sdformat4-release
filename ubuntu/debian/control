@@ -18,7 +18,7 @@ Build-Depends: cmake,
                texlive-fonts-recommended,
                texlive-latex-extra,
                ruby,
-               libignition-math2-dev
+               libignition-math2-dev (>= 2.6.0)
 Vcs-Browser: https://bitbucket.org/osrf/sdformat4-release
 Vcs-Hg: https://bitbucket.org/osrf/sdformat4-release
 Homepage: http://sdformat.org
@@ -53,7 +53,7 @@ Depends: libboost-system-dev,
          libboost-regex-dev,
          libboost-iostreams-dev,
          libtinyxml-dev,
-         libignition-math2-dev,
+         libignition-math2-dev (>= 2.6.0),
          libsdformat4 (= ${binary:Version}),
          ${misc:Depends}
 Conflicts: libsdformat2-dev,
